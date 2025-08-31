@@ -19,9 +19,9 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/jemuel rosal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jemuel rosal" height="30" width="40" /></a>
-<a href="https://fb.com/jemuel rosal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jemuel rosal" height="30" width="40" /></a>
-<a href="https://instagram.com/jemz.row" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jemz.row" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/jemuel rosal](https://www.linkedin.com/in/jemuel-rosal-153387377/)](https://www.linkedin.com/in/jemuel-rosal-153387377/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jemuel rosal" height="30" width="40" /></a>
+<a href="[https://fb.com/jemuel rosal](https://www.facebook.com/Jemz.Row](https://www.facebook.com/Jemz.Row)" target="blank)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jemuel rosal" height="30" width="40" /></a>
+<a href="[https://instagram.com/jemz.row](https://www.instagram.com/jemz.row/)](https://www.instagram.com/jemz.row/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jemz.row" height="30" width="40" /></a>
 <a href="https://discord.gg/607188891576827916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="607188891576827916" height="30" width="40" /></a>
 </p>
 
