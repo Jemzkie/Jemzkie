@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Jemmie from Cebu Philippines<br>- 🔭 I’m curently for work related to the IT Industry to enhance my carrer and knowledge<br>- 📚 I'm currently learning Python, JavaScript and any code languages that I'm interested in<br>- 🎮 In my free time I like playing online games</p>
+<p align="left">👨 I'm Jemmie from Cebu Philippines<br>- 🔭 I’m currently a IT student still hungry for knowledge in the IT Industry <br>- 📚 I'm currently still learning any code languages that I'm interested in<br>- 🎮 In my free time I like playing online games.</p>
 
 ###
 
