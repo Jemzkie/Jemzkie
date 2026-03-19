@@ -13,14 +13,13 @@
 ###
 
 <p align="left">👨 I'm Jemmie from the Philippines
-<br> 🔭 I’m IT Professional & BSIT Graduate with a strong foundation in creating user-centered interfaces and 
-collaborating in development teams. 
+<br> 🔭 I’m a BSIT Graduate with a strong foundation in creating user-centered interfaces and collaborating in development teams. 
 <br> 📚 Currently Leaning 
-- Phyton language
-- Cyber Threat Monitoring
-- SQL for Data Analytics
-- Python for Data Analysis
-- Security Information and Event Management (SIEM)
+<br> - Phyton language
+<br>- Cyber Threat Monitoring
+<br>- SQL for Data Analytics
+<br>- Python for Data Analysis
+<br>- Security Information and Event Management (SIEM)
 <br> ✨ My hobbies are playing games, riding motorcycle, and meeting new friends.</p>
 
 ###
