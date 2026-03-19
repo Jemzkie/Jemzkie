@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRuZDhzdm02NGp3MWNwOGk3NmNpZnNtNmJ1ejRlZHo5cWUwNXE0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRuZDhzdm02NGp3MWNwOGk3NmNpZnNtNmJ1ejRlZHo5cWUwNXE0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Hi, I'm Jemuel! 👋</h1>
+<h1 align="center">Hi, I'm Jemuel Rosal! 👋</h1>
 
 ###
 
@@ -12,7 +12,16 @@
 
 ###
 
-<p align="left">👨 I'm Jemmie from Cebu Philippines<br>- 🔭 I’m currently a IT student still hungry for knowledge in the IT Industry <br>- 📚 I'm currently still learning any code languages that I'm interested in<br>- 🎮 In my free time I like playing online games.</p>
+<p align="left">👨 I'm Jemmie from the Philippines
+<br> 🔭 I’m IT Professional & BSIT Graduate with a strong foundation in creating user-centered interfaces and 
+collaborating in development teams. 
+<br> 📚 Currently Leaning 
+- Phyton language
+- Cyber Threat Monitoring
+- SQL for Data Analytics
+- Python for Data Analysis
+- Security Information and Event Management (SIEM)
+<br> ✨ My hobbies are playing games, riding motorcycle, and meeting new friends.</p>
 
 ###
 
