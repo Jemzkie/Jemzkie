@@ -14,14 +14,16 @@
 
 <p align="left">👨 I'm Jemmie from the Philippines
 <br> 🔭 I’m a BSIT Graduate with a strong foundation in creating user-centered interfaces and collaborating in development teams. 
+<br> ✨ My hobbies are playing games, riding motorcycle, and meeting new friends
+<br> 🎯 Goal: Build scalable, efficient applications and grow in AI & finance tech 
 <br> <br> 📚 Currently Learning 
-<br>- Phyton language
+<br>- Back End Development
 <br>- Cyber Threat Monitoring
 <br>- SQL for Data Analytics
 <br>- Python for Data Analysis
 <br>- Security Information and Event Management (SIEM)
 <br>- Anything related to the IT Industry that seems interesting to me
-<br> <br> ✨ My hobbies are playing games, riding motorcycle, and meeting new friends.</p>
+<br> </p>
 
 ###
 
