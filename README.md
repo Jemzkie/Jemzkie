@@ -12,15 +12,15 @@
 
 ###
 
-<p align="left">👨 I'm Jemmie from the Philippines
+<p align="left">👨 I'm Jemmie from the Philippines <br> 
 <br> 🔭 I’m a BSIT Graduate with a strong foundation in creating user-centered interfaces and collaborating in development teams. 
-<br> 📚 Currently Leaning 
+<br> <br> 📚 Currently Leaning 
 <br> - Phyton language
 <br>- Cyber Threat Monitoring
 <br>- SQL for Data Analytics
 <br>- Python for Data Analysis
 <br>- Security Information and Event Management (SIEM)
-<br> ✨ My hobbies are playing games, riding motorcycle, and meeting new friends.</p>
+<br> <br> ✨ My hobbies are playing games, riding motorcycle, and meeting new friends.</p>
 
 ###
 
