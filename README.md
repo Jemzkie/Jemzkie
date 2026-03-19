@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨 I'm Jemmie from the Philippines <br> 
+<p align="left">👨 I'm Jemmie from the Philippines
 <br> 🔭 I’m a BSIT Graduate with a strong foundation in creating user-centered interfaces and collaborating in development teams. 
 <br> <br> 📚 Currently Leaning 
 <br> - Phyton language
